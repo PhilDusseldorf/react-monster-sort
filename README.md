@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React-monster-sort
+
+This project helps me to learn the basics of the REACT-library.
+It consists of a sort-bar, a list of cards and cards of monsters. The monster cards are created with the help of two external APIs. First there is the [JSON Placeholder API](https://jsonplaceholder.typicode.com/) for the monster's data and second the [ROBOHASH-API](https://robohash.org/) for the images.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
